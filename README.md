@@ -13,11 +13,12 @@ Controlling drones with advanced functionalities such as object detection, traje
   
   OpenCV: For advanced computer vision tasks such as object detection and path identification.
   
-  DJI Tello SDK: For interfacing with DJI Tello drones and executing commands.
+  DJI Tello: For interfacing with DJI Tello drones and executing commands.
   
   Filters and Algorithms: For processing drone camera feeds, stabilizing footage, and applying various effects used with OpenCV.
   
   Libraries: Utilization of DJITelloPy library for enhanced functionality.
+  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OPenCV" alt="OPenCv" width="40" height="40"/>&nbsp;

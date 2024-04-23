@@ -43,6 +43,7 @@ def main():
             cv2.namedWindow("Trackbars")
             cv2.resizeWindow("Trackbars", (500, 90))
 
+            # Need to pull from the Windows to get the updated version of the color code
             # Create trackbars for each of the colors (Min)
             cv2.createTrackbar("H_min", "Trackbars", 0, 255, 'create_callback')
             cv2.setTrackbarPos("H_min", "Trackbars", H_min)
