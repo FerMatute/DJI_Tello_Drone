@@ -25,7 +25,7 @@ elif frame_source == 1:
 	drone.connect()
 	drone.streamoff()
 	drone.streamon()
-
+	
 # Callback functions to update the speed
 def speed_callback(val):
 	global speed
